@@ -1,0 +1,23 @@
+{
+    "A102": {
+        "company": "Contoso Ltd",
+        "value": 85000,
+        "stage": "Negotiation",
+        "days_in_pipeline": 47,
+        "last_contact_days": 14
+    },
+    "B205": {
+        "company": "Northwind Traders",
+        "value": 25000,
+        "stage": "Proposal",
+        "days_in_pipeline": 12,
+        "last_contact_days": 3
+    },
+    "C331": {
+        "company": "Fabrikam Corp",
+        "value": 120000,
+        "stage": "Discovery",
+        "days_in_pipeline": 5,
+        "last_contact_days": 1
+    }
+}
